@@ -1,0 +1,31 @@
+Year,Station,Mode,Percentage
+1998,Richmond,Walked,0.19
+1998,Richmond,Bicycle,0.02
+1998,Richmond,Bus/Transit,0.19
+1998,Richmond,Drive Alone/carpool,0.45
+1998,Richmond,Dropped Off,0.15
+2008,Richmond,Walked,0.24
+2008,Richmond,Bicycle,0.02
+2008,Richmond,Bus/Transit,0.21
+2008,Richmond,Drive Alone/carpool,0.38
+2008,Richmond,Dropped Off,0.15
+2015,Richmond,Walked,0.35
+2015,Richmond,Bicycle,0.05
+2015,Richmond,Bus/Transit,0.08
+2015,Richmond,Drive Alone/carpool,0.26
+2015,Richmond,Dropped Off,0.25
+1998,Stationwide,Walked,0.26
+1998,Stationwide,Bicycle,0.03
+1998,Stationwide,Bus/Transit,0.23
+1998,Stationwide,Drive Alone/carpool,0.39
+1998,Stationwide,Dropped Off,0.09
+2008,Stationwide,Walked,0.28
+2008,Stationwide,Bicycle,0.04
+2008,Stationwide,Bus/Transit,0.15
+2008,Stationwide,Drive Alone/carpool,0.43
+2008,Stationwide,Dropped Off,0.1
+2015,Stationwide,Walked,0.37
+2015,Stationwide,Bicycle,0.06
+2015,Stationwide,Bus/Transit,0.08
+2015,Stationwide,Drive Alone/carpool,0.29
+2015,Stationwide,Dropped Off/taxi/other,0.19
